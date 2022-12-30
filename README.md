@@ -1,6 +1,6 @@
 # YAML
 some basics concepts of yaml beginner level to advancve level-devops technology
- :rocket: Inntroduction to yaml     #Kunalwithdevops      https://www.youtube.com/watch?v=IA90BTozdow&t=1903s       #code file named as YAML some Basics code    
+ :rocket: Introduction to yaml     #Kunalwithdevops      https://www.youtube.com/watch?v=IA90BTozdow&t=1903s       #code file named as YAML some Basics code    
       🐾introduction    
       🐾What is yaml?    
       🐾Data serialization and deserialization    
